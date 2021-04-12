@@ -11,6 +11,7 @@ public class Abonnement implements Serializable {
 	/**
 	 * 
 	 */
+	//..
 	private static final long serialVersionUID = 1L;
 
 
